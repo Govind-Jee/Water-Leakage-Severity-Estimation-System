@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Govind Jee
+Copyright (c) 2026 Govind Jee, Shiju Kumar P S, Raj Kishor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--------------------------------------------------------------------------------
+Research Materials and Third-Party Assets Notice:
+--------------------------------------------------------------------------------
+1. Research Publications and Conference Materials:
+   The research manuscript (paper/ICFCR2026_Paper105.pdf), presentation slides
+   (presentation/ICFCR2026_Presentation.pdf), and conference delivery documentation
+   (docs/conference_presentation_speech.md) are academic works copyright (c) 2026
+   by the authors (Shiju Kumar P S, Govind Jee, Raj Kishor) and ICFCR 2026.
+   All rights reserved.
+
+2. Benchmark Dataset:
+   The experimental measurements referenced in this study originate from the open
+   benchmark published by Aghashahi, Sela, and Banks (2022), "Dataset for Water
+   Pipe Leak Detection in Branched and Looped Laboratory Distribution Networks",
+   Mendeley Data, V1, DOI: 10.17632/tbrnp6vrnj.1, distributed under the Creative
+   Commons Attribution 4.0 International (CC BY 4.0) License.
